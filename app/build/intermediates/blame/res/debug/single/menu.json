@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/E:\\HorizontalListDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/E:\\HorizontalListDemo\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/HorizontalListDemo/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/HorizontalListDemo/app/src/main/res/menu/menu_main.xml"
+    }
+]

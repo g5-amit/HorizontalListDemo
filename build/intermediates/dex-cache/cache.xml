@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_2e71bc74967cb9132d601b9cf05a899fc3bde999.jar" />
+    </item>
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_df27ab3f328ba3edc235cb13d3f08e0f61d2504b.jar" />
+    </item>
+    <item
+        jar="/Applications/android_sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_4b4a8030fe528b96fd21df80fd601367da88486d.jar" />
+    </item>
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_a62f6670eff838c5a57dd3b69e6b40ad4a154450.jar" />
+    </item>
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_8730b7f05ed82e7d6b49714e9d57e13d272dcaaa.jar" />
+    </item>
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_e299eefd7dff16614abc3dcada8088c895a76c92.jar" />
+    </item>
+    <item
+        jar="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_b3001b9fb3dfe0043d556b0985df4d89e0feb059.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/E:\\HorizontalListDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "/Users/amit.gupta10/Desktop/Transfer_Data/Android_Demo_project/HorizontalListDemo/E:\\HorizontalListDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/amit.gupta10/Desktop/Android_Demo_project/HorizontalListDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/amit.gupta10/Desktop/Android_Demo_project/HorizontalListDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
